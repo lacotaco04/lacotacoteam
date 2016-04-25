@@ -1,0 +1,58 @@
+1) 10 heurystyk Nielsena
+2) Zasady Normana
+3) Lista kontrolna Ravdena
+4) Lista kontrolna Xerox Corporation
+5) Material design guidelines
+
+Persona:
+
+Age: 26
+Occupation: Software Developer
+Status: Single
+Location: San Jose, CA
+Tier: Experiment Hacker
+Archetype: Computer Nerd
+
+Friendly Clever Go-Getter
+
+PICTURE
+"I feel like there;s a way for me to transition
+into a healthier lifestyle"
+
+Motivations | 1/10 |
+
+Social
+Power
+Growth
+Achievment
+Fear
+Incentive
+
+Goals:
+To Cut down on unhealtht eating and drininking habits
+To measure multiple aspects of life more scientifically
+To se goals and see and make positive impacts on his life
+
+Frustrations:
+Unfamilliar with wearable technology
+Saturated tracking market
+Manual tracking is too time consuming
+
+Personality ( <- ->)
+Extrovert Introvert
+Sensing Intuition
+Thinking Feeling
+Judging Percieving
+
+Technology ( 1 / 10 )
+It Internet
+Software
+Mobile Apps
+Social Networks
+
+Biography
+
+Aaron is a sustem software developer, "a data junkie" and for the past couple years has been interested
+in tracking aspects of his health and performance. Aaron wants to track his mood, happiness, sleep quality
+and how eating and exercise habits affects his well being. Althougth he only drinks occasionally with friends
+on the weekend, he would like to cut down on alchohol intake.  
